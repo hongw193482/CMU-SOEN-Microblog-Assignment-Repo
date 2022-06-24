@@ -69,3 +69,4 @@ python3 -m flask run
 4. Log into your GitHub account (if you have not done so already)
 5. Select your repository for this class, likely the _CMU-SOEN-Microblog-Assignemnt-Repo_, under the _Repository_ drop down, and under the _Branch_ drop down select _module2-bug-fixes_ branch
 6. Click upload and wait for the results of the autograder
+7. Check result of Gradescope 
